@@ -1,0 +1,50 @@
+body {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+header h1{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.content h2{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.content p{
+    font-size: 21px;
+    color: gray;
+}
+
+.logo-text h2{
+    font-size: 42px;
+    font-weight: normal;
+    color: white;
+}
+
+.logo-container{
+    margin: 3vh;
+}
+
+
+.video-container{
+    padding: 2vh;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+    font-size: 20px;
+    margin: 15px 0;
+
+}
